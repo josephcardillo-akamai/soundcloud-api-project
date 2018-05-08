@@ -1,7 +1,7 @@
 # SoundCloud API Music Player
 ### Description: A music player utilizing the Soundcloud API. Search the API. Display tracks. Play, pause and next options.
 
-[SoundCloud Music Player](../soundcloud.gif)
+![](../soundcloud.gif)
 
 * README
 

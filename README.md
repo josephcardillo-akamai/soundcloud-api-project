@@ -1,3 +1,6 @@
+# soundcloud-api-project
+A music player utilizing the Soundcloud API. Search the API. Display tracks. Play, pause and next options.
+
 * README
 
 <<< Note: In order to use this Soundcloud Player you need your own API Key. >>>
